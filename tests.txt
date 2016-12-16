@@ -1,0 +1,4 @@
+clear project
+vendor.f3501d2f2dc83d484324.bundle.js - 419kb
+main.079c2de0d9f9800005c0.bundle.js   - 12kb
+inline.d41d8cd98f00b204e980.bundle.js - 2kb
